@@ -2,10 +2,10 @@
 
 # PROJECT TITLE : WIINGS
 	
-	WIINGS is an Image Based Species Identification application. In WIINGS you can take a picture of a bird and
-	find out the details of bird such as birds origin, breed and many more. To sum it up if you need to find 
-	the details of a bird that you want to get as a pet or to generally learn about birds and their breeds, 
-	"WIINGS" is your ideal application.
+	WIINGS is an Image Based Species Identification application. In WIINGS you can take a picture of a bird 
+	and find out the details of bird such as birds origin, breed and many more. To sum it up if you need to 
+	find the details of a bird that you want to get as a pet or to generally learn about birds and their 
+	breeds, "WIINGS" is your ideal application.
 	
 # TEAM NAME :
 
